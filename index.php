@@ -23,9 +23,6 @@ $Link = "https://api.whatsapp.com/send?phone=$code$input&text=$mess"; // Compine
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 		<link href ="Shorter.css" rel="stylesheet" type="text/css"/>
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-		<script src="https://code.jquery.com/jquery-latest.min.js"></script>
 
 </head>
 
@@ -53,19 +50,17 @@ $Link = "https://api.whatsapp.com/send?phone=$code$input&text=$mess"; // Compine
 				<div class="center">
 						<ul class="social-network social-circle">
 						<center>    <li><a href="https://twitter.com/AAS_110" class="icoTwitter" title="Twitter"><i class="fa fa-twitter"></i></a></li> </center>
-			
 						</ul>
-					</div>
-			</form>
+				</div>
+			 </form>
 		</div>
 	</div>
-	
-	
 </div>
 
  
-  
+  		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<script src="https://code.jquery.com/jquery-latest.min.js"></script>
 
 </body>
-
 </html>
